@@ -1,11 +1,21 @@
+
+
+
+
 {
-    "Bank customer 1": [
-      {
-        "name": "Meessam",
-        "Date joined": "23-4-20",
-        "Balance": 20000,
-        "Card Type": "Mastercard"
-      }
-    ]
-  }
+  "Bank customers": [
+    {
+      "name": "Meessam",
+      "Date joined": "23-4-20",
+      "Balance": 20000,
+      "Card Type": "Mastercard"
+    },
+    {
+      "name": "Hassan",
+      "Date joined": "23-4-20",
+      "Balance": 20000,
+      "Card Type": "Mastercard"
+    }
+  ]
   
+}

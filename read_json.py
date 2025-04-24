@@ -6,3 +6,5 @@ try:
     print(data)
 except json.JSONDecodeError as e:
     print("JSON Decode Error:", e)
+
+
