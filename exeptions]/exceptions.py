@@ -5,3 +5,12 @@ except ZeroDivisionError as e:
 finally:
     result = 1
 print(result)    
+
+
+
+
+#raise
+try:
+    raise Exception("An error stating ...bla bla bla")
+except Exception as error:
+    print(error)
